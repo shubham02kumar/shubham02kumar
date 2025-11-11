@@ -55,8 +55,8 @@ This project demonstrates proficiency in machine learning integration, full-stac
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/shubham-02-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:shubhamvan2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
   <a href="https://github.com/shubham02kumar"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 </p>
 
