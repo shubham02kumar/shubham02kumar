@@ -46,7 +46,7 @@ This project demonstrates proficiency in machine learning integration, full-stac
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubham02kumar&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham02kumar&theme=radical" />
 </p>
